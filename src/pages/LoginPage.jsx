@@ -18,7 +18,7 @@ const LoginPage = () => {
 
       <div className="flex w-full md:w-1/2 items-center justify-center bg-white px-6 md:px-16 py-10">
         <div className="w-full max-w-md">
-          <h1 className="text-2xl font-bold mb-6">LOGIN</h1>
+          <h1 className="text-2xl font-bold mb-6">LOGING</h1>
 
           <div className="md:hidden flex justify-center mb-6">
             <img
