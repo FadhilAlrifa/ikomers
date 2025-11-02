@@ -1,15 +1,14 @@
 {
   "files": {
     "main.css": "/ikomers/static/css/main.76423bf8.css",
-    "main.js": "/ikomers/static/js/main.add7baad.js",
-    "static/js/453.d7c16f4c.chunk.js": "/ikomers/static/js/453.d7c16f4c.chunk.js",
+    "main.js": "/ikomers/static/js/main.8f0f27d5.js",
+    "static/media/loginil.svg": "/ikomers/static/media/loginil.68d70637f7d6b4ef50dcf01cee59756f.svg",
     "index.html": "/ikomers/index.html",
     "main.76423bf8.css.map": "/ikomers/static/css/main.76423bf8.css.map",
-    "main.add7baad.js.map": "/ikomers/static/js/main.add7baad.js.map",
-    "453.d7c16f4c.chunk.js.map": "/ikomers/static/js/453.d7c16f4c.chunk.js.map"
+    "main.8f0f27d5.js.map": "/ikomers/static/js/main.8f0f27d5.js.map"
   },
   "entrypoints": [
     "static/css/main.76423bf8.css",
-    "static/js/main.add7baad.js"
+    "static/js/main.8f0f27d5.js"
   ]
 }
