@@ -20,7 +20,7 @@ const RegisterPage = () => {
 
           <div className="md:hidden flex justify-center mb-6">
             <img
-              src="/register-illustration.png"
+              src={`${process.env.PUBLIC_URL}/assets/shp.svg`}
               alt="Register Illustration"
               className="w-48"
             />

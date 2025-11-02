@@ -22,7 +22,7 @@ const LoginPage = () => {
 
           <div className="md:hidden flex justify-center mb-6">
             <img
-              src="/login-illustration.png"
+              src={`${process.env.PUBLIC_URL}/assets/loginil.svg`}
               alt="Login Illustration"
               className="w-48"
             />
