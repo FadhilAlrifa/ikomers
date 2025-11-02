@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ikomers/static/css/main.76423bf8.css",
+    "main.js": "/ikomers/static/js/main.324e9a83.js",
+    "static/js/453.d7c16f4c.chunk.js": "/ikomers/static/js/453.d7c16f4c.chunk.js",
+    "index.html": "/ikomers/index.html",
+    "main.76423bf8.css.map": "/ikomers/static/css/main.76423bf8.css.map",
+    "main.324e9a83.js.map": "/ikomers/static/js/main.324e9a83.js.map",
+    "453.d7c16f4c.chunk.js.map": "/ikomers/static/js/453.d7c16f4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76423bf8.css",
+    "static/js/main.324e9a83.js"
+  ]
+}
