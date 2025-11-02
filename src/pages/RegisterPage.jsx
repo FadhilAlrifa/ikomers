@@ -8,7 +8,7 @@ const RegisterPage = () => {
     <div className="min-h-screen flex flex-col md:flex-row">
       <div className="hidden md:flex md:w-1/2 bg-[#FFE88C]  items-center justify-center">
         <img
-          src="/shp.svg"
+          src={`${process.env.PUBLIC_URL}/assets/shp.svg`}
           alt="Register Illustration"
           className="w-3/4 max-w-md"
         />
