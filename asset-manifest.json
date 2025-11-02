@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ikomers/static/css/main.a988d497.css",
-    "main.js": "/ikomers/static/js/main.9afceba2.js",
+    "main.js": "/ikomers/static/js/main.073dec78.js",
     "index.html": "/ikomers/index.html",
     "main.a988d497.css.map": "/ikomers/static/css/main.a988d497.css.map",
-    "main.9afceba2.js.map": "/ikomers/static/js/main.9afceba2.js.map"
+    "main.073dec78.js.map": "/ikomers/static/js/main.073dec78.js.map"
   },
   "entrypoints": [
     "static/css/main.a988d497.css",
-    "static/js/main.9afceba2.js"
+    "static/js/main.073dec78.js"
   ]
 }
