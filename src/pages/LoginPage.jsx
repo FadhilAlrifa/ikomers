@@ -1,6 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { FcGoogle } from "react-icons/fc";
+import loginImg from "../assets/loginil.svg";
 
 const LoginPage = () => {
   const navigate = useNavigate();
@@ -9,7 +10,7 @@ const LoginPage = () => {
     <div className="min-h-screen flex flex-col md:flex-row">
       <div className="hidden md:flex md:w-1/2 bg-[#FFE88C] items-center justify-center">
         <img
-          src="/loginil.svg"
+          src={loginImg}
           alt="Login Illustration"
           className="w-3/4 max-w-md"
         />

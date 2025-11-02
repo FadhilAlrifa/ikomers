@@ -1,8 +1,9 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import React from "react";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import LoginPage from "./pages/LoginPage";
 import RegisterPage from "./pages/RegisterPage";
 
-function App() {
+const App = () => {
   return (
     <Router>
       <Routes>
@@ -11,6 +12,6 @@ function App() {
       </Routes>
     </Router>
   );
-}
+};
 
 export default App;
