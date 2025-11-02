@@ -7,7 +7,6 @@ const LoginPage = () => {
 
   return (
     <div className="min-h-screen flex flex-col md:flex-row bg-white">
-      {/* Bagian kiri - gambar */}
       <div className="hidden md:flex md:w-1/2 bg-[#FFE88C] items-center justify-center">
         <img
           src={`${process.env.PUBLIC_URL}/assets/loginil.svg`}
@@ -16,12 +15,10 @@ const LoginPage = () => {
         />
       </div>
 
-      {/* Bagian kanan - form */}
       <div className="flex w-full md:w-1/2 items-center justify-center px-6 md:px-16 py-10">
         <div className="w-full max-w-md">
           <h1 className="text-2xl font-bold mb-6">LOGIN</h1>
 
-          {/* Gambar di mobile */}
           <div className="md:hidden flex justify-center mb-6">
             <img
               src={`${process.env.PUBLIC_URL}/assets/loginil.svg`}
