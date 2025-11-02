@@ -1,10 +1,10 @@
 import React from "react";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
-
 import LoginPage from "./pages/LoginPage";
 import RegisterPage from "./pages/RegisterPage";
+import "./App.css";
 
-const App = () => {
+function App() {
   return (
     <Router>
       <Routes>
@@ -13,6 +13,6 @@ const App = () => {
       </Routes>
     </Router>
   );
-};
+}
 
 export default App;
