@@ -69,7 +69,7 @@ const HomePage = () => {
 
                 <div className="flex gap-4 text-xl">
                     <FiSearch />
-                    <FiShoppingBag />
+                    <a href="/cart"><FiShoppingBag /></a>
                 </div>
             </div>
 
